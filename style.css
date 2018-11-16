@@ -48,14 +48,6 @@ a {
     margin: 2em;
 }
 
-/*SLIDE SHOW*/
-#ssContainer{
-    max-width: 800px;
-    margin: 0 auto;
-}
-#img1{
-    width: 100%;
-}
 
 /*card - Notícias*/
 .cardNoticias{
